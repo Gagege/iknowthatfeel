@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iknowthatfeel", "iknowthatfeel\iknowthatfeel.csproj", "{C1A81B21-0509-4BC8-B7ED-30D6A79EB3B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iknowthatfeel-server", "iknowthatfeel-server\iknowthatfeel-server.csproj", "{388EF2E9-952A-4766-8E01-649924C3788B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{388EF2E9-952A-4766-8E01-649924C3788B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388EF2E9-952A-4766-8E01-649924C3788B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388EF2E9-952A-4766-8E01-649924C3788B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388EF2E9-952A-4766-8E01-649924C3788B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1A81B21-0509-4BC8-B7ED-30D6A79EB3B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A81B21-0509-4BC8-B7ED-30D6A79EB3B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A81B21-0509-4BC8-B7ED-30D6A79EB3B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A81B21-0509-4BC8-B7ED-30D6A79EB3B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = iknowthatfeel-server\iknowthatfeel-server.csproj
+	EndGlobalSection
+EndGlobal
